@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "hs-test-web": "https://github.com/hyperskill/hs-test-web/archive/release.tar.gz",
+    "hs-test-web-server": "https://github.com/hyperskill/hs-test-web-server/archive/release.tar.gz",
+    "hs-test-web-dependencies": "https://github.com/hyperskill/hs-test-web-dependencies/archive/release.tar.gz"
+  },
+  "peerDependencies": {
+    "jest": ">=24.9.0",
+    "@types/jest": ">=24.9.0",
+    "puppeteer": "^13.1.3",
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
+  },
+  "scripts": {
+    "start": "node node_modules/hs-test-web-server/start.js"
+  }
+}

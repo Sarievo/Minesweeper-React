@@ -1,0 +1,13 @@
+type: hyperskill
+title: Minesweeper
+language: English
+summary: <p>Minesweeper is&nbsp;an&nbsp;oldschool game that dates back&nbsp;to the
+  earliest mainframe games of the 1960s and 1970s. The player is presented with a&nbsp;field&nbsp;of
+  cells,&nbsp;some of which&nbsp;contain hidden mines. You can open any of the closed
+  cells and find out how many mines are around it, or stumble upon&nbsp;a mine right
+  there and lose. Your goal is to open all the empty cells and flag all the cells
+  with&nbsp;mines.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/108?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/108</a>
+programming_language: JavaScript
+content:
+- Minesweeper
+mode: Study
